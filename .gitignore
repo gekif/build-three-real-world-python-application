@@ -4,3 +4,4 @@ node_modules
 npm-debug.log
 Chapter 2/config.py
 Chapter 2/Alpha_Vantage_API_key.txt
+.venv
